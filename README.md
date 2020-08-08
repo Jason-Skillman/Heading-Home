@@ -1,11 +1,11 @@
 # Heading-Home
 
-Unity3D Project
+### Credits
 
-Complete source code for the Winter Game Jam 2019 competition at New England Institute of Technology.
+#### Programmers
+- Jason Skillman
 
-###Credits### 
-
-Programmers: Jason Skillman
-
-Designers: Amanda Coler, Darren Lussier and Taylor Manning
+#### Designers
+- Amanda Coler
+- Darren Lussier
+- Taylor Manning
